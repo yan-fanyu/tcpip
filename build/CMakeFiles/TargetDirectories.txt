@@ -1,0 +1,3 @@
+/code/tcpip/build/CMakeFiles/rebuild_cache.dir
+/code/tcpip/build/CMakeFiles/edit_cache.dir
+/code/tcpip/build/CMakeFiles/test_program.dir
